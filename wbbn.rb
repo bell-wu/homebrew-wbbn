@@ -8,5 +8,4 @@ class Wbbn < Formula
   def install
     bin.install 'wbbn'
   end
-
 end
